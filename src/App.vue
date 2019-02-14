@@ -2,7 +2,7 @@
   <div id="app">
     <div class="header"><p>router-transition-practice</p></div>
     <ul>
-      <li><router-link to="/circle">CirCle</router-link></li>
+      <li><router-link to="/">CirCle</router-link></li>
       <li><router-link to="/rect">Rectangle</router-link></li>
       <li><router-link to="/triangle">Triangle</router-link></li>
     </ul>
