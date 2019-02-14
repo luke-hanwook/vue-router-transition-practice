@@ -10,7 +10,7 @@ Vue.use(Router);
 export default new Router({
   mode: "history",
   routes: [
-    { path: "/circle", component: BlueCircle },
+    { path: "/", component: BlueCircle },
     { path: "/rect", component: RedRectagle },
     { path: "/triangle", component: GreenTriangle }
   ]
